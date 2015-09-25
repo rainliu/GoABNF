@@ -1,2 +1,4 @@
-# GoABNF
-ABNF parser in Go
+GoABNF
+======
+
+ABNF Parser in Go

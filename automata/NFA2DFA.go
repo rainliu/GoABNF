@@ -1,0 +1,6 @@
+package automata
+
+import (
+
+)
+
